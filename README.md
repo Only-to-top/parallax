@@ -41,7 +41,12 @@
   </div>
 
   <script>
+    <!-- js -->
     var scene = document.getElementById('scene');
+    var parallaxInstance = new Parallax(scene);
+    
+    <!-- jquery -->
+    var scene = $('#scene').get(0);
     var parallaxInstance = new Parallax(scene);
   </script>
 </body>
