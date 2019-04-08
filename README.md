@@ -1,5 +1,7 @@
 # parallax
 
+<h2>https://github.com/wagerfield/parallax</h2>
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
